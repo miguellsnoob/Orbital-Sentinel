@@ -2,6 +2,7 @@
 
 ### Global Solution 2026.1 — Cross-Platform Application Development | FIAP
 
+![Banner do Projeto](./assets/screenshots/banner.png)
 
 ## Sobre o projeto
 
@@ -23,29 +24,37 @@ Modalidade: Individual
 
 ### Home — Dashboard principal
 
+![Home](./assets/screenshots/home.png)
+
 Tela inicial do aplicativo, mostrando um resumo geral da missão. Nela aparecem os principais indicadores, como energia, temperatura, sinal de comunicação e estabilidade orbital.
 
 ### Dashboard de sensores
+
+![Sensores](./assets/screenshots/sensores.png)
 
 Tela com dados simulados dos sensores da missão. O objetivo é acompanhar informações importantes para o funcionamento dos sistemas espaciais, como temperatura e outros indicadores técnicos.
 
 ### Dashboard de energia
 
+![Energia](./assets/screenshots/energia.png)
 
 Dashboard voltado para o acompanhamento da parte energética da missão, exibindo informações como nível de energia, consumo e situação geral do sistema.
 
 ### Dashboard de comunicação
 
+![Comunicação](./assets/screenshots/comunicacao.png)
 
 Tela responsável por mostrar a situação da comunicação da missão, incluindo qualidade do sinal, latência e estabilidade da telemetria.
 
 ### Alertas
 
+![Alertas](./assets/screenshots/alertas.png)
 
 Tela que lista os alertas gerados automaticamente pelo aplicativo. Esses alertas aparecem quando algum dado simulado passa dos limites configurados, como energia baixa ou temperatura elevada.
 
 ### Configurações
 
+![Configurações](./assets/screenshots/configuracoes.png)
 
 Tela com formulário para configurar os limites críticos da missão. O usuário consegue alterar os valores de referência para geração dos alertas, com validação dos campos antes de salvar.
 
@@ -178,8 +187,9 @@ A Context API foi usada para centralizar os dados principais da missão e permit
 
 ## Vídeo de demonstração
 
-O vídeo <img width="720" height="1280" alt="home" src="https://github.com/user-attachments/assets/bc5057f8-c9ab-4481-9a70-57ad0aa692fc" />
-apresenta o funcionamento geral do aplicativo, mostrando as telas principais, os dashboards, a tela de alertas e o formulário de configurações.
+O vídeo abaixo apresenta o funcionamento geral do aplicativo, mostrando as telas principais, os dashboards, a tela de alertas e o formulário de configurações.
+
+[Clique aqui para assistir ao vídeo de demonstração](COLE_AQUI_O_LINK_DO_VIDEO)
 
 ## Observações finais
 
