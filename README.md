@@ -148,7 +148,7 @@ Antes de rodar o projeto, é necessário ter instalado:
 Clone o repositório:
 
 ```bash
-git clone COLE_AQUI_O_LINK_DO_REPOSITORIO
+git clone https://github.com/miguellsnoob/Orbital-Sentinel.git
 ```
 
 Entre na pasta do projeto:
